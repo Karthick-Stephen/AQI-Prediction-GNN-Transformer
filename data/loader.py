@@ -1,0 +1,1 @@
+import pandas as pd\nfrom datasets import load_dataset\n\ndef load_air_quality_data():\n    dataset = load_dataset('huggingface/air-quality')\n    return dataset\n\nif __name__ == '__main__':\n    data = load_air_quality_data()\n    print(data)
