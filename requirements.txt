@@ -1,0 +1,1 @@
+torch==2.0.0\nnumpy==1.24.0\npandas==2.0.0\nscikit-learn==1.3.0\nmatplotlib==3.7.0\nseaborn==0.12.0\ndatasets==2.14.0\nfastapi==0.104.0\nuvicorn==0.24.0\npydantic==2.0.0\ntensorboard==2.14.0\njupyter==1.0.0
